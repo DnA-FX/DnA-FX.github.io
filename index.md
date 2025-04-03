@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include button.html
   link="research"
   text="See our Analog Effects"
-  icon="fa-solid fa-wave-sine"
+  icon="fa-solid fa-music"
   flip=true
   style="bare"
 %}
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include button.html
   link="research"
   text="See our Digital Effects"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-wave-square"
   flip=true
   style="bare"
 %}
@@ -36,8 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="drat-pedals"
+  title="Drat Pedals"
   text=text
 %}
 
