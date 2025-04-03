@@ -16,15 +16,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications 1"
-  icon="fa-solid fa-arrow-right"
+  text="See our Analog Effects"
+  icon="fa-solid fa-wave-sine"
   flip=true
   style="bare"
 %}
+
 {%
   include button.html
   link="research"
-  text="See our publications 2"
+  text="See our Digital Effects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
