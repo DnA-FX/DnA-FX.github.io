@@ -18,6 +18,10 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
+tester:
+  icon: fa-solid fa-vial-virus
+  description: Tester
+
 artist:
   icon: fa-solid fa-music
   description: Artist

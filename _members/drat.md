@@ -1,10 +1,15 @@
 ---
-name: John Doe
+name: Drat
 image: images/photo.jpg
-role: phd
-group: alum
+description: Founder
+role: 
+  - founder
+  - designer
+  - builder
+  - programmer
+  - tester
 links:
-  github: john-doe
+  email: drat@dna-fx.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

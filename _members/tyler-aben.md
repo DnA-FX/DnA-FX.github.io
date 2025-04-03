@@ -1,11 +1,13 @@
 ---
-name: Sarah Johnson
+name: Tyler Aben
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: 
+  - founder
+  - designer
+  - builder
+  - tester
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: aben@dna-fx.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
