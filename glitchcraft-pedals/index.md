@@ -1,8 +1,8 @@
 ---
-title: Research
+title: GlitchCraft Pedals
 nav:
-  order: 4
-  tooltip: R&D Blog
+  order: 2
+  tooltip: Digital Pedals
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

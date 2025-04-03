@@ -1,8 +1,8 @@
 ---
-title: Research
+title: Drat Pedals
 nav:
-  order: 4
-  tooltip: R&D Blog
+  order: 1
+  tooltip: Analog Pedals
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

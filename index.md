@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="drat-pedals"
   text="See our Analog Effects"
   icon="fa-solid fa-music"
   flip=true
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="glitchcraft-pedals"
   text="See our Digital Effects"
   icon="fa-solid fa-wave-square"
   flip=true
@@ -47,8 +47,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="aben-synthworks/synth-mods"
+  text="See our Synth Mods"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

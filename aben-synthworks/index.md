@@ -1,8 +1,8 @@
 ---
-title: Research
+title: Aben Synthworks
 nav:
-  order: 4
-  tooltip: R&D Blog
+  order: 3
+  tooltip: Synth Modules
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
