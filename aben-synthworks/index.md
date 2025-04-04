@@ -1,5 +1,5 @@
 ---
-title: Aben Synthworks
+title: SynthWorks
 nav:
   order: 3
   tooltip: Synth Modules

@@ -1,7 +1,7 @@
 ---
 title: About
 nav:
-  order: 5
+  order: 6
   tooltip: About our team
 ---
 
