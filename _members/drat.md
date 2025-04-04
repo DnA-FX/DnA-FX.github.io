@@ -1,6 +1,6 @@
 ---
 name: Drat
-image: images/photo.jpg
+image: images/profiles/drat.jpg
 description: Founder
 role: founder
 links:
