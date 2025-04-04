@@ -1,6 +1,5 @@
 ---
-title: GlitchCraft Pedals
-nav:
+title: GlitchCraft
   order: 2
   tooltip: Digital Pedals
 ---

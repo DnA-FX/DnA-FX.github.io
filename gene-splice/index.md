@@ -1,8 +1,8 @@
 ---
-title: D.R.A.T.
+title: Gene-Splice
 nav:
-  order: 1
-  tooltip: Analog Pedals
+  order: 4
+  tooltip: Hybrid Pedals/Mods
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -23,6 +23,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include list.html
   data="pedals"
-  component="pedal-excerpt"
-  filter="brand == drat"    
+  component="pedal-excerpt" 
+  filter="brand == glitchcraft"  
 %}

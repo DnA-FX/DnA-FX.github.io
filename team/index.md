@@ -21,10 +21,10 @@ To merge engineering precision with experimental sound — creating pedals/mods 
 
 ## Our Brands
 
-- **Drat:** Analog guitar and bass effects.
+- **D.R.A.T.:** Designed for Raw Analog Tone provides all of our analog guitar and bass effects.
 - **GlitchCraft:** Digital and modular DSP effects.
-- **DNA-FX:** A hybrid collaboration brand exploring experimental audio mutations.
-- **HybridWorks (WIP):** Synth-focused hybrid tools under development.
+- **SynthWorks:** Synth-focused tools and modules.
+- **Gene-Splice:** A hybrid collaboration brand exploring experimental audio mutations.
 
 <!-- MUSICIANS -->
 {% include section.html background="images/background.jpg" dark=true %}
