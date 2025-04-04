@@ -1,5 +1,6 @@
 ---
 title: GlitchCraft
+nav:
   order: 2
   tooltip: Digital Pedals
 ---
