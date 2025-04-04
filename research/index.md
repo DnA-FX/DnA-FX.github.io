@@ -1,5 +1,5 @@
 ---
-title: Research
+title: The Lab
 nav:
   order: 5
   tooltip: R&D Blog
