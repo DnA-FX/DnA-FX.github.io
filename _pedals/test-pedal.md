@@ -2,6 +2,7 @@
 title: Test Pedal
 subtitle: Type of Pedal
 image: images/photo.png
+link: /pedal/test-pedal
 description: Short Description of what a test pedal is.
 tags:
   - tag1
