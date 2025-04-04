@@ -1,8 +1,8 @@
 ---
 name: Calvin Jee
 image: images/profiles/calvin-jee.png
-description: Artist
-role: artist
+description: Musician
+role: musician
 links:
   home-page: https://calvinjee.wordpress.com/music/
   bandcamp: calvinjee

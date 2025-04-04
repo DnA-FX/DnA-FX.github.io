@@ -23,9 +23,13 @@ tester:
   description: Tester
 
 artist:
-  icon: fa-solid fa-music
+  icon: fa-solid fa-paintbrush
   description: Artist
 
+musician:
+  icon: fa-solid fa-music
+  description: Musician
+  
 # general
 
 link:
