@@ -14,25 +14,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'founder'" %}
-<!--
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
--->
-
-<!--TEAM MEMBERS-->
-
-<!--
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role != 'founder' or role != 'musician'" %}
--->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Where would we be without the love and support from those who choose to use the equipment that we design? Here are some of those who have offered us their continued support, input, and dedication.
+And where would we be without the love and support from those who choose to use the equipment that we have designed? While we wish that we could list everyone who has helped us along our path, that would make this list truly un-ending. So here are some of the more notable of those who have offered us their continued support, input, and dedication.
 <!-- MUSICIANS -->
 {% include section.html %}
 
