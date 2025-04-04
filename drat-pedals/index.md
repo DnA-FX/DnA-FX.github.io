@@ -17,5 +17,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include list.html
   data="pedals"
-  component="card"  
+  component="pedal-excerpt"  
 %}
