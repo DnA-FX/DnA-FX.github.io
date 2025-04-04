@@ -73,7 +73,7 @@ search:
 # social media
 
 bandcamp:
-  icon: fa-brands fa-music
+  icon: fa-solid fa-music
   text: Bandcamp
   tooltip: Bandcamp
   link: https://$VALUE.bandcamp.com/
@@ -97,7 +97,7 @@ github:
   link: https://github.com/$VALUE
 
 itch.io:
-  icon: fa-brands fa-store
+  icon: fa-solid fa-store
   text: LinkedIn
   tooltip: LinkedIn
   link: https://$VALUE.itch.io
@@ -115,7 +115,7 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
 
 soundcloud:
-  icon: fa-brands fa-cloud
+  icon: fa-solid fa-cloud
   text: SoundCloud
   tooltip: SoundCloud
   link: https://soundcloud.com/$VALUE
