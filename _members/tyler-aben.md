@@ -1,11 +1,7 @@
 ---
 name: Tyler Aben
 image: images/photo.jpg
-role: 
-  - founder
-  - designer
-  - builder
-  - tester
+role: founder
 links:
   email: aben@dna-fx.com
 ---

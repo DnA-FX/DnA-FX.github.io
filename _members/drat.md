@@ -2,12 +2,7 @@
 name: Drat
 image: images/photo.jpg
 description: Founder
-role: 
-  - founder
-  - designer
-  - builder
-  - programmer
-  - tester
+role: founder
 links:
   email: drat@dna-fx.com
 ---
