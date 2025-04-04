@@ -4,14 +4,14 @@ image: images/profiles/calvin-jee.png
 description: Artist
 role: artist
 links:
+  home-page: https://calvinjee.wordpress.com/music/
   bandcamp: calvinjee
   soundcloud: calvinjeemusic
-  itch.io: cjee246
   bluesky: calvinjee.bsky.social
-  youtube: cjee246
   email: calvinjeeaudio@gmail.com
-  home-page: https://calvinjee.wordpress.com/music/
-htmls:
+  youtube: cjee246
+  itch.io: cjee246
+bandcamps:
   - 1225084699
   - 848656855
 ---
