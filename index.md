@@ -8,7 +8,7 @@
 
 {% capture text %}
 
-**Drat Pedals** is the core of our brands; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed in-house by our dedicated sound specialist.
+**D.R.A.T. & GlitchCraft** are the core of our brands; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed in-house by our dedicated sound specialist.
 
 {%
   include button.html
