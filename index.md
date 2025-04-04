@@ -1,9 +1,6 @@
 ---
 ---
-
-# DnA-FX's Website
-
-An engaging 1-3 sentence description of your lab.
+**D&A Effects** crafts boutique sound equipment — from analog, digital, and hybrid pedals to hi-quality synth modules. Designed for sonic experimenters, musicians, and tone scientists. From earth-shaking analog overdrives to glitch-infused digital chaos to awe inspiring synth mods — we're building the future of sound, one mutation at a time.
 
 {% include section.html %}
 
@@ -11,7 +8,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Drat Pedals** is the core of our brands; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed in-house by our dedicated sound specialist.
 
 {%
   include button.html
@@ -43,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**SynthWorks** is responsible for our high-quality synth modules; all designs are made by our dedicated team and hand built and painted by our dedicated synth specialists.
 
 {%
   include button.html
