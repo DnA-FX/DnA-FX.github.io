@@ -34,6 +34,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_pedals
+  - scope:
+      type: "pedals"
+    values:
+      layout: pedal
 
 collections:
   # generate page for each member
