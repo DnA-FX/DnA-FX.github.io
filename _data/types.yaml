@@ -102,8 +102,8 @@ github:
 
 itch.io:
   icon: fa-solid fa-store
-  text: LinkedIn
-  tooltip: LinkedIn
+  text: itch.io
+  tooltip: itch.io
   link: https://$VALUE.itch.io
 
 instagram:
