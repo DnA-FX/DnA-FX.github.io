@@ -1,0 +1,12 @@
+<div class="post-info">
+  {% if include.price %}
+    {% assign price = include.price %}
+    <span data-tooltip="Price">
+      <span>${{ price }} CAD</span>
+    </span>
+  {% endif %}
+</div>
+
+{% if include.tags %}
+  {% include tags.html tags=include.tags link="blog" %}
+{% endif %}
