@@ -1,6 +1,6 @@
 ---
 name: Calvin Jee
-image: images/photo.jpg
+image: images/profiles/calvin-jee.png
 description: Artist
 role: artist
 links:
