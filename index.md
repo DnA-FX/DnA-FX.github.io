@@ -8,7 +8,7 @@
 
 {% capture text %}
 
-**D.R.A.T. & GlitchCraft** are the core of our brands; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed in-house by our dedicated sound specialist.
+**D.R.A.T.** & **GlitchCraft** are the core of our brands; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed in-house by our dedicated sound specialist.
 
 {%
   include button.html
@@ -65,7 +65,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Made in Canada** - All of our pedals/mods are handmade by our audio and design specialists in our sound lab. Come meet all the people that come together to create all our great products and the story behind **D&A Effects**.
 
 {%
   include button.html
