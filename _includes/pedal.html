@@ -45,8 +45,9 @@
     {% endif %}
 
     {% if include.price %}
+      {% assign price = include.price %}
       <p>
-        {{ include.price }}
+        ${{ price }} CAD
       </p>
     {% else %}
       <p>
