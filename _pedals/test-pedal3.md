@@ -1,6 +1,6 @@
 ---
-title: Test Pedal
-subtitle: Type of Pedal
+title: Test Pedal 3
+subtitle: Type of Pedal 3
 brand: drat
 image: images/photo.png
 price: 150.00
