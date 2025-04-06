@@ -13,12 +13,6 @@ No more low quality, mass produced, sounds. Instead we focused on creating the s
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include tags.html tags="tag1, tag2, tag3" %}
-
-{% include search-info.html %}
-
 ## Highlighted
 
 {%

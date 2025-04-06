@@ -12,12 +12,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
 ## Highlighted
 
 {%
