@@ -19,5 +19,6 @@ No more low quality, mass produced, sounds. Instead we focused on creating the s
   include list.html
   data="pedals"
   component="pedal"
-  filter="brand == 'drat'"    
+	style="small"
+  filter="brand == 'drat'"
 %}
