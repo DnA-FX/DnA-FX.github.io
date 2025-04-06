@@ -44,7 +44,15 @@
       </p>
     {% endif %}
     
-    {{ include.price }}
+    {% if include.price %}
+      <p>
+        ${{ include.price }} CAD
+      </p>
+    {% else %}
+      <p>
+        $TBD CAD
+      </p>
+    {% endif %}
     
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}

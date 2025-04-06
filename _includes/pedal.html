@@ -45,13 +45,12 @@
     {% endif %}
 
     {% if include.price %}
-      {% assign price = include.price %}
       <p>
-        ${{ price }} CAD
+        ${{ include.price }} CAD
       </p>
     {% else %}
       <p>
-        $TBD CAD {{ include.price }}
+        $TBD CAD
       </p>
     {% endif %}
   </div>
