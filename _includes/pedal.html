@@ -3,6 +3,8 @@
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
+    {% else %}
+      href="{{ include.url | relative_url | uri_escape }}"
     {% endif %}
     aria-label="{{ include.title | default: "card link" | regex_strip }}"
     class="card-image"
@@ -20,6 +22,8 @@
       <a
         {% if include.link %}
           href="{{ include.link | relative_url | uri_escape }}"
+        {% else %}
+          href="{{ include.url | relative_url | uri_escape }}"
         {% endif %}
         {% if include.tooltip %}
           data-tooltip="{{ include.tooltip | xml_escape }}"
@@ -40,7 +44,7 @@
       </p>
     {% endif %}
 
-    {% if include.price%}
+    {% if include.price %}
       <p>
         {{ include.price | markdownify | remove: "<p>" | remove: "</p>" }}
       </p>
