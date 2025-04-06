@@ -46,7 +46,7 @@
 
     {% if include.price %}
       <p>
-        {{ include.price | markdownify | remove: "<p>" | remove: "</p>" }}
+        {{ include.price }}
       </p>
     {% else %}
       <p>
