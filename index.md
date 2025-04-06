@@ -34,7 +34,7 @@
   include feature.html
   image="images/photo.jpg"
   link="drat-pedals"
-  title="Drat Pedals"
+  title="Guitar Effects"
   text=text
 %}
 
@@ -44,9 +44,9 @@
 
 {%
   include button.html
-  link="aben-synthworks/synth-mods"
+  link="aben-synthworks"
   text="See our Synth Mods"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-sliders"
   flip=true
   style="bare"
 %}
@@ -56,8 +56,8 @@
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="aben-synthworks"
+  title="Synth Modules"
   flip=true
   style="bare"
   text=text
@@ -70,8 +70,8 @@
 {%
   include button.html
   link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  text="Meet the Team!"
+  icon="fa-solid fa-people-group"
   flip=true
   style="bare"
 %}
