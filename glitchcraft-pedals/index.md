@@ -5,10 +5,22 @@ nav:
   tooltip: Digital Pedals
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**GlitchCraft** is where digital meets precision engineering. Born from the same minds behind [drat-pedals](**D.R.A.T.**), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
+
+This isn’t clean. This isn’t sterile.
+This is corrupted code, rewired reality, and tonal mutation in pedal form.
+
+Each **GlitchCraft** effect is a controlled experiment in digital signal programming — handcrafted algorithms, warped LFOs, fractured reverbs, and unpredictable feedback loops. They're made for those who don't just play — they bend sound to their will.
+
+Whether you're shaping cinematic swells, conjuring bit-crushed doom, or dialing into cybernetic dissonance, **GlitchCraft** gives you the tools to reshape your sonic DnA.
+
+{%
+  include alert.html
+  type="warning"
+  content="Side effects may include broken timelines, recursive reverb hallucinations, and spontaneous inspiration."
+%}
 
 {% include section.html %}
 

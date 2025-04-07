@@ -7,9 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-music" %}D.R.A.T.
 
-**D**esigned for **R**aw **A**nalog **T**one is the brand that started it all. A want for high quality analog pedals at a price that anyone could afford.
+<!--**D**esigned for **R**aw **A**nalog **T**one-->
+**D**rat: **R**edesigning **A**nalog **T**ones
+ — this is the brand that started it all. Born from a simple but relentless idea: to make **high-quality** analog pedals accessible to **everyone**, without compromising on tone, craft, or soul.
 
-No more low quality, mass produced, sounds. Instead we focused on creating the sounds everyone loves and desires, from there we work on handcrafting each pedal and rigorously test them to make sure every pedal exceeds our mark of excellency.
+We grew tired of the flat, uninspired sounds of mass-produced gear — pedals that felt more like plastic than passion. So we set out to do it differently.
+
+At **D.R.A.T.**, we focus on capturing the tones players chase: gritty overdrives, lush modulations, fat fuzzes, and everything in between. Every pedal begins with a sound worth obsessing over — and ends with a piece of gear built by hand, tested by ear, and made to inspire.
+
+Each unit is meticulously assembled, rigorously tested, and held to a personal standard of excellence — not to just function properly, but to feel right. This isn't just about circuits. It's about character. It's about tone that’s raw, real, and yours.
 
 {% include section.html %}
 
