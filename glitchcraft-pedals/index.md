@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft
 
-**GlitchCraft** is where digital meets precision engineering. Born from the same minds behind [drat-pedals](**D.R.A.T.**), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
+**GlitchCraft** is where our digital sound lab meets precision engineering. Born from the same minds behind [**D.R.A.T.**](drat-pedals), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
 
 This isn’t clean. This isn’t sterile.
 This is corrupted code, rewired reality, and tonal mutation in pedal form.
