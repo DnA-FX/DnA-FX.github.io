@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #7209b7;
-  --secondary: #f72585;
+  --primary: #f72585;
+  --secondary: #7209b7;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -14,7 +14,7 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #7209b7;
+  --primary: #f72585;
   --secondary: #3a0ca3;
   --text: #ffffff;
   --background: #181818;
