@@ -16,7 +16,7 @@ This is machined modulation, voltage-driven disruption, and signal design with i
 
 From CV-reactive effects to standalone tone generators, every **SynthWorks** unit is hand-crafted for maximum flexibility, playability, and performance. Whether you're deep into Eurorack or just starting to patch together your first system, SynthWorks gives you the custom-components you need to build a sound system that’s uniquely yours — no rules, no limitations.
 
-**Modular**. _Expandable_. ~~~Unpredictable~~~.
+**Modular**. _Expandable_. **_Unpredictable_**.
 This is **SynthWorks**.
 
 {% include section.html %}
