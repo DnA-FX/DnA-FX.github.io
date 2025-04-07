@@ -1,77 +1,43 @@
 ---
-title: Contact
+title: Contact Us
 nav:
   order: 7
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Have a question? Want to place an order? Just want to talk tone?
+
+We’d love to hear from you.
+
+At **D&A Effects**, we operate a little differently. Every pedal is handcrafted in small batches, and we handle all orders _directly through email_. This lets us keep things personal, answer your questions one-on-one, and make sure you’re getting exactly what you need — no middlemen, no generic checkout pages.
+
+##🎛️ Ready to Order?
+Shoot us an email at [orders@dna-fx.ca](orders@dna-fx.com) with:
+
+- The pedal(s) you’re interested in
+- Any questions or custom requests
+- Your shipping location (just for a quick quote)
+
+We'll get back to you as soon as we can with availability, lead times, and payment info.
+
+##📩 General Inquiries
+Have feedback, collab ideas, or just wanna nerd out about gear?
+Hit us up at [info@dna-fx.ca](info@dna-fx.ca)
+
+We’re a small team building equipment because we love it — and that means your message actually matters to us. No auto-responders, no ticket queues. Just real humans making weird, wonderful sounds with you.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="info@dna-fx.ca"
+  link="info@dna-fx.ca"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  text="(780) 000-0000"
+  link="+1-780-000-0000"
 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
