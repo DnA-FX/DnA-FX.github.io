@@ -2,15 +2,15 @@
 name: Drat
 image: images/profiles/drat.png
 description: Founder
-role: founder
+role: designer
 links:
-  email: drat@dna-fx.com
+  email: dna.audio.fx+drat@gmail.com
 ---
 
 # Drat  
-**Pedal Designer • Chaos Tinkerer • Co-Founder of D&A Effects**
+**Pedal Designer • Chaos Tinkerer • Designer of D&A Effects Projects**
 
-I’m **Drat**, and if you trace this whole thing back far enough, it all started with Tyler talking nonstop about modular synths.
+I’m Daniel Aldrich, better know as **Drat**, and if you trace this whole thing back far enough, it all started with Tyler talking nonstop about modular synths.
 
 At first, I was just listening — curious but on the outside. Then something clicked. The overlap between synth modules and guitar pedals was undeniable, and suddenly I was hooked. I brought up the idea of merging the two worlds, and from there, it became a **joint obsession**.
 
@@ -18,7 +18,7 @@ At first, I was just listening — curious but on the outside. Then something cl
 
 We started experimenting. Building weird circuits. Pushing boundaries. Tyler would prototype synth control modules; I’d tune the audio side for guitar and bass. The line between the two started to blur — and that’s where the magic was.
 
-Eventually, a few musician friends got wind of what we were working on. They wanted to test the gear, use it in their sets, push it to its limits. That feedback loop led to even wilder ideas and new designs. What started in the lab turned into a movement — a **cult following** of artists looking for tones and textures that didn’t exist anywhere else.
+Eventually, a few musician friends got wind of what we were working on. They wanted to test the gear, use it in their sets, push it to its limits. That feedback loop led to even wilder ideas and new designs. 
 
 ## What I Do
 
@@ -30,9 +30,9 @@ Eventually, a few musician friends got wind of what we were working on. They wan
 
 ## What Drives Me
 
-I build gear for musicians who want to break the mold — people who want their tone to feel alive, unstable, and full of possibility. Every design comes with a little chaos baked in.
+I build gear to break the mold — I want the tones I create to feel alive, unstable, and full of possibility. Every design comes with a little chaos baked in.
 
 ---
 
 Want to collab? Curious about a custom build?  
-Reach out at **[drat@dna-fx.com]** or catch me lurking on GitHub and Instagram.
+Reach out at **[dna.audio.fx+drat@gmail.com]**.

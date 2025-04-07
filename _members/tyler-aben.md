@@ -1,23 +1,21 @@
 ---
 name: Tyler Aben
 image: images/photo.jpg
-role: founder
+role: designer
 links:
-  email: aben@dna-fx.com
+  email: dna.audio.fx+aben@gmail.com
 ---
 
 # Tyler Aben  
-**Modular Synth Designer • Sonic Instigator • Co-Founder of D&A Effects**  
+**Modular Synth Designer • Sonic Instigator • Designer of D&A Effects Projects**  
 
 I’m **Tyler Aben**, and I guess you could say this whole thing started because I wouldn’t shut up about modular synths.
 
-It began with an idea: **build my own synth modules**. That idea turned into late-night circuit talks with Drat, who got hooked after realizing just how much guitar effects and modular synthesis had in common. We both saw the potential for something different — a space where analog and digital could twist together in unexpected ways.
+It began with an idea: **build my own synth modules**. That idea turned into late-night circuit talks with [Drat](/members/drat), who got hooked after realizing just how much guitar effects and modular synthesis had in common. We both saw the potential for something different — a space where analog and digital could twist together in unexpected ways.
 
 ## From Spark to Circuit
 
 What started as a few breadboarded prototypes quickly became something bigger. Together, we began designing **hybrid circuits**, **glitchy tone machines**, and **experimental audio tools**. The gear wasn’t just functional — it was fun, unpredictable, and deeply personal.
-
-As word spread, friends in live music and production started trying out our creations. One thing led to another, and a **cult following** started to grow — one that craved that same spirit of sonic exploration.
 
 ## What I Do
 
@@ -29,4 +27,4 @@ As word spread, friends in live music and production started trying out our crea
 ---
 
 Want to talk synths or collaborate on something weird?  
-Hit me up at **[aben@dna-fx.com]**, or find me in the patch cables.
+Hit me up at **[dna.audio.fx+aben@gmail.com]**, or find me in the patch cables.

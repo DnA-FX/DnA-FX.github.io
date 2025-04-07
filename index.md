@@ -1,6 +1,8 @@
 ---
 ---
-**D&A Effects** crafts boutique sound equipment — from analog, digital, and hybrid pedals to hi-quality synth modules. Designed for sonic experimenters, musicians, and tone scientists. From earth-shaking analog overdrives to glitch-infused digital chaos to awe inspiring synth mods — we're building the future of sound, one mutation at a time.
+**D&A Effects** is the informal and creative project of Daniel Aldrich and Tyler Aben. **D&A Effects** creates boutique sound equipment — from analog, digital, and hybrid pedals to hi-quality synth modules. Designed for sonic experimenters, musicians, and tone scientists. From earth-shaking analog overdrives to glitch-infused digital pedals to awe inspiring synth mods — we're building the future of sound, one mutation at a time.
+
+This website aims to provide insight and document the journey of creating our sound.
 
 {% include section.html %}
 
@@ -8,7 +10,7 @@
 
 {% capture text %}
 
-**D.R.A.T.** & **GlitchCraft** are the core of our brands; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed in-house by our dedicated sound specialist.
+**D.R.A.T.** & **GlitchCraft** are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed by us.
 
 {%
   include button.html
@@ -40,7 +42,7 @@
 
 {% capture text %}
 
-**SynthWorks** is responsible for our high-quality synth modules; all designs are made by our dedicated team and hand built and painted by our dedicated synth specialists.
+**SynthWorks** is the sub-project responsible for our high-quality synth modules; all designs are made by, assembled, and painted by us.
 
 {%
   include button.html
@@ -65,7 +67,7 @@
 
 {% capture text %}
 
-**Made in Canada** - All of our pedals/mods are handmade by our audio and design specialists in our sound lab. Come meet all the people that come together to create all our great products and the story behind **D&A Effects**.
+**Made in Canada** - All of our pedals/mods are handmade by us in our "sound lab". Come meet all the people that come together to create each assembly in our sub-projects and the story behind the **D&A Effects** project.
 
 {%
   include button.html

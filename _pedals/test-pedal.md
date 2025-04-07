@@ -3,7 +3,6 @@ title: Test Pedal
 subtitle: Type of Pedal
 brand: drat
 image: images/profiles/drat.png
-price: 150.00
 description: Short Description of what a test pedal is.
 tags:
   - tag1
