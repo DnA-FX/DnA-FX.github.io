@@ -34,7 +34,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project/drat.png"
   link="drat-pedals"
   title="Guitar Effects"
   text=text
@@ -57,7 +57,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/synthworks.png"
   link="aben-synthworks"
   title="Synth Modules"
   flip=true
