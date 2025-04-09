@@ -3,6 +3,7 @@ title: GlitchCraft
 nav:
   order: 2
   tooltip: Digital Pedals
+	header: images/product/glitchcraft_nobg.png
 ---
 
 # {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft

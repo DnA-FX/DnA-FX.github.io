@@ -3,6 +3,7 @@ title: SynthWorks
 nav:
   order: 3
   tooltip: Synth Modules
+	header: images/product/synthworks.png
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}SynthWorks
