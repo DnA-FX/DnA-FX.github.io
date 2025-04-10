@@ -82,7 +82,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {%
   include feature.html
-  image="images/logo-dark.png"
+  image="images/profiles/team.png"
   link="team"
   title="Our Team"
   text=text
