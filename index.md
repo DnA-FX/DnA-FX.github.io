@@ -10,7 +10,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {% capture text %}
 
-**D.R.A.T.** & **GlitchCraft** are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortion, to some of the best combo effects available — all designed by us.
+**D.R.A.T.** & **GlitchCraft** are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortions, to some of the best combo effects available — all designed by us.
 
 {%
   include button.html
@@ -67,7 +67,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {% capture text %}
 
-**Made in Canada** - All of our pedals/mods are handmade by us in our "sound lab". Come meet all the people that come together to create each assembly in our sub-projects and the story behind the **D&A Effects** project.
+**Made by Canadians** - Two Canadians handmaking pedals/mods in our "_sound lab_". Come meet all the people that come together to create each sub-project and the story behind the **D&A Effects** project.
 
 {%
   include button.html
