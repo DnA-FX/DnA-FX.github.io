@@ -19,12 +19,12 @@ nav:
 
 To merge engineering precision with experimental sound — creating pedals/mods that are not just tools, but instruments in their own right. Whether we're chasing a vintage warmth or glitchy chaos, we build the tools that let us **customize our sonic DnA.**
 
-## Our Brands
+## Our Sub-Projects
 
-- **D.R.A.T.:** Designed for Raw Analog Tone provides all of our analog guitar and bass effects.
-- **GlitchCraft:** Digital and modular DSP effects.
-- **SynthWorks:** Synth-focused tools and modules.
-- **Gene-Splice:** A hybrid collaboration brand exploring experimental audio mutations.
+- [**D.R.A.T.**](/drat-pedals): **D**rat: **R**edesigning **A**nalog **T**ones houses all of our **analog** guitar and bass effects.
+- [**GlitchCraft**](/glitchcraft-pedals): GlitchCraft is where all our **digital** and DSP effects are housed.
+- [**SynthWorks**](/synthworks-mods): **Synth**-focused tools and modules.
+- [**Gene-Splice**](/gene-splice-collabs): A **collab**oration project, exploring experimental audio mutations.
 
 <!-- MUSICIANS -->
 {% include section.html background="images/background.jpg" dark=true %}
