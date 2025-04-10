@@ -1,6 +1,7 @@
 ---
 name: Tyler Aben
 image: images/photo.jpg
+description: Synth Designer
 role: designer
 links:
   email: dna.audio.fx+aben@gmail.com

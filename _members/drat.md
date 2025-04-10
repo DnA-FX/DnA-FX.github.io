@@ -1,7 +1,7 @@
 ---
 name: Drat
 image: images/profiles/drat.png
-description: Founder
+description: Pedal Designer
 role: designer
 links:
   email: dna.audio.fx+drat@gmail.com
