@@ -13,7 +13,7 @@ We’d love to hear from you.
 
 Daniel Aldrich and Tyler Aben, the guys behind the **D&A Effects** project, as well as all the sub-projects are here to answer any questions you might have.
 
-##📩 General Inquiries
+## 📩 General Inquiries
 Have feedback, ideas, or just wanna nerd out about gear?
 Hit us up at [dna.audio.fx@gmail.com](dna.audio.fx@gmail.com)
 
