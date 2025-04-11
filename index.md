@@ -34,7 +34,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {%
   include feature.html
-  image="images/projects/drat_glitchcraft.png"
+  image="images/projects/drat-glitchcraft.png"
   link="drat-pedals"
   title="Guitar Effects"
   text=text

@@ -21,7 +21,7 @@ title: Projects
 %}
 
 {% include card.html
-  image="images/projects/glitchcraft_nobg.png"
+  image="images/projects/glitchcraft-nobg.png"
   link="/projects/glitchcraft"
   title="GlitchCraft"
   subtitle="Digital Pedals"
