@@ -2,7 +2,7 @@
 ---
 **D&A Effects** is the informal and creative project of Daniel Aldrich and Tyler Aben. **D&A Effects** creates boutique sound equipment — from analog, digital, and hybrid pedals to hi-quality synth modules. Designed for sonic experimenters, musicians, and tone scientists. From earth-shaking analog overdrives to glitch-infused digital pedals to awe inspiring synth mods — we're building the future of sound, one mutation at a time.
 
-This website aims to provide insight and document the journey of creating our sound.
+This website aims to provide insight and document the journey of creating our sound. Come discover all the projects that we are working on [here](/projects).
 
 {% include section.html %}
 
