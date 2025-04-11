@@ -10,7 +10,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {% capture text %}
 
-**D.R.A.T.** & **GlitchCraft** are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortions, to some of the best combo effects available — all designed by us.
+[**D.R.A.T.**](/drat-pedals) & [**GlitchCraft**](/glitchcraft-pedals) are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortions, to some of the best combo effects available — all designed by us.
 
 {%
   include button.html
