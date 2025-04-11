@@ -9,9 +9,9 @@ nav:
 
 ## Who We Are
 
-**D&A Effects** (a.k.a. **DnA-FX**) is project to develop our own boutique pedals and experiment in our sound design _lab_ brought together by Daniel Aldrich (a.k.a. **Drat**) in full collaboration with backyard synth designer & amateur audio connoisseur **Tyler Aben**. We're creators, hackers, and musicians.
+**D&A Effects** (a.k.a. **DnA-FX**) is collection of projects to develop our own boutique pedals and experiment in our sound design _lab_ brought together by Daniel Aldrich (a.k.a. **Drat**) in full collaboration with backyard synth designer & audio connoisseur **Tyler Aben**. We're creators, hackers, and musicians.
 
-<!-- FOUNDERS -->
+<!-- designers -->
 {% include section.html %}
 {% include list.html data="members" component="portrait" filter="role == 'designer'" %}
 
@@ -19,12 +19,12 @@ nav:
 
 To merge engineering precision with experimental sound — creating pedals/mods that are not just tools, but instruments in their own right. Whether we're chasing a vintage warmth or glitchy chaos, we build the tools that let us **customize our sonic DnA.**
 
-## Our Sub-Projects
+## Our Current Projects
 
-- [**D.R.A.T.**](/projects/drat): **D**rat: **R**edesigning **A**nalog **T**ones houses all of our **analog** guitar and bass effects.
-- [**GlitchCraft**](/projects/glitchcraft): GlitchCraft is where all our **digital** and DSP effects are housed.
+- [**D.R.A.T.**](/projects/drat): **Analog** guitar and bass effects.
+- [**GlitchCraft**](/projects/glitchcraft): **Digital** and DSP effects.
 - [**SynthWorks**](/projects/synthworks): **Synth**-focused tools and modules.
-- [**Gene-Splice**](/projects/gene-splice): A **collab**oration project, exploring experimental audio mutations.
+- [**Gene-Splice**](/projects/gene-splice): A **hybrid** & **collab**oration projects.
 
 <!-- MUSICIANS -->
 {% include section.html background="images/background.jpg" dark=true %}
