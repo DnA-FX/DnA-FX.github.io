@@ -5,20 +5,21 @@ nav:
   tooltip: Hybrid Pedals/Mods
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Gene-Splice
+{%
+  include section.html
+  background="images/projects/gene-splice.png"
+%}
+**Gene-Splice** is a project rooted in experimentation — a series of hybrid audio machines built by cross-breeding ideas, formats, and technologies. Analog, digital, modular, and everything in between: if it sparks curiosity and bends expectations, it belongs here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+These devices aren’t confined by tradition. They’re _spliced_ together in the lab, designed to disrupt categories and _evolve_ with your sound.
 
-{% include section.html %}
+## Why Gene-Splice?
+Because some ideas don't fit inside one category; some circuits are discovered, not designed; the most interesting things happen at the edges of compatibility; hybrid gear deserves a home. **Gene-Splice** is where form meets function, and circuits _evolve_ — not by iteration, but by _mutation_.
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-## Highlighted
+## Coming Soon
+Made in the Lab. Designed to Mutate.
+**Gene-Splice** — _Evolve Your Signal._
 
 {%
   include list.html
