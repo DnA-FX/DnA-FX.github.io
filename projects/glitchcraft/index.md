@@ -10,7 +10,7 @@ nav:
   include section.html
   background="images/projects/glitchcraft.png"
 %}
-**GlitchCraft** is the sub-project where our digital sound lab meets precision design. Born from the same minds behind [**DRAT**](/drat-pedals), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
+**GlitchCraft** is the sub-project where our digital sound lab meets precision design. Born from the same minds behind [**DRAT**](/projects/drat), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
 
 This isn’t clean. This isn’t sterile.
 This is corrupted code, rewired reality, and tonal mutation in pedal form.

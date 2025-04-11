@@ -10,11 +10,11 @@ This website aims to provide insight and document the journey of creating our so
 
 {% capture text %}
 
-[**D.R.A.T.**](/drat-pedals) & [**GlitchCraft**](/glitchcraft-pedals) are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortions, to some of the best combo effects available — all designed by us.
+[**D.R.A.T.**](/projects/drat) & [**GlitchCraft**](/projects/glitchcraft) are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortions, to some of the best combo effects available — all designed by us.
 
 {%
   include button.html
-  link="drat-pedals"
+  link="/projects/drat"
   text="See our Analog Effects"
   icon="fa-solid fa-music"
   flip=true
@@ -23,7 +23,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {%
   include button.html
-  link="glitchcraft-pedals"
+  link="/projects/glitchcraft"
   text="See our Digital Effects"
   icon="fa-solid fa-wave-square"
   flip=true
@@ -46,7 +46,7 @@ This website aims to provide insight and document the journey of creating our so
 
 {%
   include button.html
-  link="aben-synthworks"
+  link="/projects/synthworks"
   text="See our Synth Mods"
   icon="fa-solid fa-sliders"
   flip=true
@@ -58,7 +58,7 @@ This website aims to provide insight and document the journey of creating our so
 {%
   include feature.html
   image="images/projects/synthworks.png"
-  link="aben-synthworks"
+  link="/projects/synthworks"
   title="Synth Modules"
   flip=true
   style="bare"
