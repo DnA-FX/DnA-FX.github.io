@@ -3,7 +3,6 @@ title: D.R.A.T.
 nav:
   order: 1
   tooltip: Analog Pedals
-header: images/projects/drat.png
 ---
 
 # {% include icon.html icon="fa-solid fa-music" %}D.R.A.T.

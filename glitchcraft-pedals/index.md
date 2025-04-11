@@ -3,11 +3,13 @@ title: GlitchCraft
 nav:
   order: 2
   tooltip: Digital Pedals
-header: images/projects/glitchcraft_nobg.png
 ---
 
 # {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft
-
+{%
+  include section.html
+  background="images/projects/glitchcraft.png"
+%}
 **GlitchCraft** is the sub-project where our digital sound lab meets precision design. Born from the same minds behind [**D.R.A.T.**](/drat-pedals), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
 
 This isn’t clean. This isn’t sterile.
