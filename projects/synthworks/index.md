@@ -24,13 +24,7 @@ This is **SynthWorks**.
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-## Highlighted
+## Coming Soon
 
 {%
   include list.html

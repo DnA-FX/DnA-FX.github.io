@@ -7,16 +7,29 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}The Lab
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to **The Lab** — where schematics come to life and the solder never cools.
 
+This is the behind-the-scenes journal for our experiments, builds, and breakdowns. From circuit sketches and failed prototypes to full walk-throughs of our weirdest gear — this is where ideas mutate into machines.
+
+Whether it's pedal design deep-dives, hybrid synth experiments, or cryptic notes from the Gene-Splice bench, you'll find it all here.
+
+### Expect:
+- Glitchy concepts
+- Unstable waveforms
+- Unexpected results
+
+_We don’t post on a schedule._ We post when the voltage feels right.
+
+---
+
+*Filed entries may be chaotic. That’s kind of the point.*
 {% include section.html %}
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-## Highlighted
+## Posts
 
 {% 
   include list.html 

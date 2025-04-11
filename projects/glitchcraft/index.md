@@ -27,7 +27,7 @@ Whether we're shaping cinematic swells, conjuring bit-crushed doom, or dialing i
 
 {% include section.html %}
 
-## Highlighted
+## Coming Soon
 
 {%
   include list.html

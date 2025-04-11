@@ -22,7 +22,7 @@ Each unit is meticulously assembled, rigorously tested, and held to a personal s
 
 {% include section.html %}
 
-## Highlighted
+## Coming Soon
 
 {%
   include list.html
