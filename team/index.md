@@ -29,7 +29,7 @@ To merge engineering precision with experimental sound — creating pedals/mods 
 - [**D.R.A.T.**](/projects/drat): **Analog** guitar and bass effects.
 - [**GlitchCraft**](/projects/glitchcraft): **Digital** and DSP effects.
 - [**SynthWorks**](/projects/synthworks): **Synth**-focused tools and modules.
-- [**Gene-Splice**](/projects/gene-splice): A **hybrid** & **collab**oration projects.
+- [**Gene-Splice**](/projects/gene-splice): All **hybrid** & **collab**oration projects.
 
 <!-- MUSICIANS -->
 {% include section.html background="images/background.jpg" dark=true %}
