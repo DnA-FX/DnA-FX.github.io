@@ -17,6 +17,8 @@ These devices aren’t confined by tradition. They’re _spliced_ together in th
 ## Why Gene-Splice?
 Because some ideas don't fit inside one category; some circuits are discovered, not designed; the most interesting things happen at the edges of compatibility; hybrid gear deserves a home. **Gene-Splice** is where form meets function, and circuits _evolve_ — not by iteration, but by _mutation_.
 
+{% include section.html %}
+
 ## Coming Soon
 Made in the Lab. Designed to Mutate.
 **Gene-Splice** — _Evolve Your Signal._
