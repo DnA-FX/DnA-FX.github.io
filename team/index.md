@@ -8,9 +8,14 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Meet the Team
 
 ## Who We Are
-
+{% capture text %}
 **D&A Effects** (a.k.a. **DnA-FX**) is collection of projects to develop our own boutique pedals and experiment in our sound design _lab_ brought together by Daniel Aldrich (a.k.a. **Drat**) in full collaboration with backyard synth designer & audio connoisseur **Tyler Aben**. We're creators, hackers, and musicians.
+{% endcapture %}
 
+{% include feature.html
+  image="images/profiles/team-2.jpg"
+  text=text
+%}
 <!-- designers -->
 {% include section.html %}
 {% include list.html data="members" component="portrait" filter="role == 'designer'" %}
