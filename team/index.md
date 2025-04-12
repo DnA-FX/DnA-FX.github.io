@@ -13,7 +13,7 @@ nav:
 {% endcapture %}
 
 {% include feature.html
-  image="images/profiles/team-2.jpg"
+  image="images/profiles/team-32.png"
   text=text
 %}
 <!-- designers -->
