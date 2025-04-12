@@ -11,7 +11,7 @@ nav:
 Experimental Sound Engines. Built to Modulate. Designed to Evolve.
 
 **SynthWorks** is the sub-project where sound is broken down, restructured, and rebuilt from the waveform up. Born from a love of modular and hands-on control, **SynthWorks** delivers tools for sonic architects — synths, modules, and tones that invite us to design, destroy, and reshape our signal path in real time.
-{% endcontent %}
+{% endcapture %}
 
 {% include feature.html
   image="images/projects/synthworks.png"

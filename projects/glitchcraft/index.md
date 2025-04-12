@@ -12,7 +12,7 @@ nav:
 
 This isn’t clean. This isn’t sterile.
 This is corrupted code, rewired reality, and tonal mutation in pedal form.
-{% endcontent %}
+{% endcapture %}
 
 {% include feature.html
   image="images/projects/glitchcraft-nobg.png"

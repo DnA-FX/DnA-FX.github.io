@@ -13,7 +13,7 @@ nav:
  — this is the project that started it all. Born from a simple but relentless idea: to make **high-quality** analog pedals without compromising on tone, craft, or soul.
 
 We grew tired of the flat, uninspired sounds of mass-produced gear — pedals that felt more like plastic than passion. So we set out to do it differently.
-{% endcontent %}
+{% endcapture %}
 
 {% include feature.html
   image="images/projects/drat.png"
