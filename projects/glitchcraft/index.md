@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft
 
-{% content text %}
+{% capture text %}
 **GlitchCraft** is the sub-project where our digital sound lab meets precision design. Born from the same minds behind [**DRAT**](/projects/drat), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
 
 This isn’t clean. This isn’t sterile.

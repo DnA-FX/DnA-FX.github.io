@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-music" %}D.R.A.T.
 
-{% content text %}
+{% capture text %}
 <!--**D**esigned for **R**aw **A**nalog **T**one-->
 **D**rat: **R**edesigning **A**nalog **T**ones
  — this is the project that started it all. Born from a simple but relentless idea: to make **high-quality** analog pedals without compromising on tone, craft, or soul.

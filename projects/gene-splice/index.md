@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Gene-Splice
 
-{% content text %}
+{% capture text %}
 **Gene-Splice** is a project rooted in experimentation — a series of hybrid audio machines built by cross-breeding ideas, formats, and technologies. Analog, digital, modular, and everything in between: if it sparks curiosity and bends expectations, it belongs here.
 
 These devices aren’t confined by tradition. They’re _spliced_ together in the lab, designed to disrupt categories and _evolve_ with your sound.
