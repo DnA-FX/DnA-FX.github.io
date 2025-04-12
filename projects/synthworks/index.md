@@ -6,13 +6,17 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}SynthWorks
-{%
-  include section.html
-  background="images/projects/synthworks.png"
-%}
+
+{% content text%}
 Experimental Sound Engines. Built to Modulate. Designed to Evolve.
 
 **SynthWorks** is the sub-project where sound is broken down, restructured, and rebuilt from the waveform up. Born from a love of modular and hands-on control, **SynthWorks** delivers tools for sonic architects — synths, modules, and tones that invite us to design, destroy, and reshape our signal path in real time.
+{% endcontent %}
+
+{% include feature.html
+  image="images/projects/synthworks.png"
+  text=text
+%}
 
 This isn’t just synthesis.
 This is machined modulation, voltage-driven disruption, and signal design with intention.

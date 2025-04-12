@@ -6,14 +6,18 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft
-{%
-  include section.html
-  background="images/projects/glitchcraft-nobg.png"
-%}
+
+{% content text%}
 **GlitchCraft** is the sub-project where our digital sound lab meets precision design. Born from the same minds behind [**DRAT**](/projects/drat), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
 
 This isn’t clean. This isn’t sterile.
 This is corrupted code, rewired reality, and tonal mutation in pedal form.
+{% endcontent %}
+
+{% include feature.html
+  image="images/projects/glitchcraft-nobg.png"
+  text=text
+%}
 
 Each **GlitchCraft** effect is a controlled experiment in digital signal programming — handcrafted algorithms, warped LFOs, fractured reverbs, and unpredictable feedback loops. They're made for those who don't just play — they bend sound to their will.
 

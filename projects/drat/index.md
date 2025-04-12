@@ -6,15 +6,19 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-music" %}D.R.A.T.
-{%
-  include section.html
-  background="images/projects/drat.png"
-%}
+
+{% content text%}
 <!--**D**esigned for **R**aw **A**nalog **T**one-->
 **D**rat: **R**edesigning **A**nalog **T**ones
  — this is the project that started it all. Born from a simple but relentless idea: to make **high-quality** analog pedals without compromising on tone, craft, or soul.
 
 We grew tired of the flat, uninspired sounds of mass-produced gear — pedals that felt more like plastic than passion. So we set out to do it differently.
+{% endcontent %}
+
+{% include feature.html
+  image="images/projects/drat.png"
+  text=text
+%}
 
 The  **D.R.A.T.** sub-project focuses on capturing the tones players chase: gritty overdrives, lush modulations, fat fuzzes, and everything in between. Every pedal begins with a sound worth obsessing over — and ends with a piece of gear built by hand, tested by ear, and made to inspire.
 
