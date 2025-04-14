@@ -8,10 +8,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-wave-square" %}GlitchCraft
 
 {% capture text %}
-**GlitchCraft** is the sub-project where our digital sound lab meets precision design. Born from the same minds behind [**DRAT**](/projects/drat), **GlitchCraft** dives deep into the world of glitched-out distortion, unstable delays, and otherworldly textures — effects that embrace the unexpected and push boundaries.
+**GlitchCraft** is our digital playground, where code and creativity collide. Born from the same passion that fuels [**DRAT**](/projects/drat), **GlitchCraft** delves into the fascinating world of digital sound manipulation, exploring glitched-out distortion, unstable delays, and otherworldly textures - effects that embrace sonic accidents and push the boundaries of what's expected.
 
-This isn’t clean. This isn’t sterile.
-This is corrupted code, rewired reality, and tonal mutation in pedal form.
+Forget pristine and predictable.
+This is about embracing digital artifacts, rewriting sonic rules, and exploring tonal mutations in pedal form.
 {% endcapture %}
 
 {% include feature.html
@@ -19,19 +19,21 @@ This is corrupted code, rewired reality, and tonal mutation in pedal form.
   text=text
 %}
 
-Each **GlitchCraft** effect is a controlled experiment in digital signal programming — handcrafted algorithms, warped LFOs, fractured reverbs, and unpredictable feedback loops. They're made for those who don't just play — they bend sound to their will.
+Each **GlitchCraft** effect is a hands-on experiment in digital signal processing - our explorations in custom algorithms, warped LFO behaviors, fractured digital reverbs, and unpredictable feedback systems. These are for those who see sound not just as something to play, but as something to actively sculpt and transform.
 
-Whether we're shaping cinematic swells, conjuring bit-crushed doom, or dialing into cybernetic dissonance, **GlitchCraft** gives us the tools to reshape our sonic DnA.
+Whether we're conjuring vast, evolving soundscapes, experimenting with bit-crushed textures, or exploring the chaotic beauty of cybernetic dissonance, **GlitchCraft** provides us with the tools to reshape our sonic DNA in the digital realm.
 
 {%
   include alert.html
   type="warning"
-  content="Side effects may include broken timelines, recursive reverb hallucinations, and spontaneous inspiration."
+  content="Side effects may include unexpected rhythmic shifts, recursive reverb hallucinations, and a sudden urge to experiment with unconventional sounds."
 %}
 
 {% include section.html %}
 
-## Coming Soon
+## Our Digital Explorations (Coming Soon)
+
+We're currently immersed in developing several digital effect concepts, including:
 
 {%
   include list.html

@@ -1,21 +1,21 @@
 ---
 ---
-**D&A Effects** is the informal and creative project of Daniel Aldrich and Tyler Aben. **D&A Effects** creates boutique sound equipment — from analog, digital, and hybrid pedals to hi-quality synth modules. Designed for sonic experimenters, musicians, and tone scientists. From earth-shaking analog overdrives to glitch-infused digital pedals to awe inspiring synth mods — we're building the future of sound, one mutation at a time.
+**D&A Effects** is the informal and creative outlet of Daniel Aldrich (Drat) and Tyler Aben, where we explore our passion for crafting unique sound experiences. We design and hand-build boutique sound equipment, showcasing our explorations in high-quality **analog guitar and bass effects (D.R.A.T)**, innovative **digital and modular DSP effects (GlitchCraft)**, and powerful **synth modules (SynthWorks)**. This is a space for fellow sonic experimenters, musicians, and tone enthusiasts to witness our journey. From the warmth of analog circuits to the possibilities of digital manipulation and the power of synthesis – we're excited to share our ongoing sonic creations.
 
-This website aims to provide insight and document the journey of creating our sound. Come discover all the projects that we are working on [here](/projects).
+This website serves as a documentation of our creative process and the various projects we're currently developing. You can explore the different facets of our work in more detail [on our projects page](/projects).
 
 {% include section.html %}
 
-## Highlights
+## Discover Our Explorations
 
 {% capture text %}
 
-[**D.R.A.T.**](/projects/drat) & [**GlitchCraft**](/projects/glitchcraft) are the core of our sub-projects; from classic analog overdrives to bit crushing digital distortions, to some of the best combo effects available — all designed by us.
+[**D.R.A.T**](/projects/drat) represents our exploration into classic and high-quality analog guitar and bass effects, while [**GlitchCraft**](/projects/glitchcraft) is where we delve into the exciting world of experimental digital and modular effects. Take a look at the pedals we've designed and the sonic concepts we're playing with.
 
 {%
   include button.html
   link="/projects/drat"
-  text="See our Analog Effects"
+  text="See Our Analog Effect Projects (D.R.A.T)"
   icon="fa-solid fa-music"
   flip=true
   style="bare"
@@ -24,7 +24,7 @@ This website aims to provide insight and document the journey of creating our so
 {%
   include button.html
   link="/projects/glitchcraft"
-  text="See our Digital Effects"
+  text="Explore Our Digital Effect Concepts (GlitchCraft)"
   icon="fa-solid fa-wave-square"
   flip=true
   style="bare"
@@ -35,19 +35,19 @@ This website aims to provide insight and document the journey of creating our so
 {%
   include feature.html
   image="images/projects/drat-glitchcraft.png"
-  link="drat-pedals"
-  title="Guitar Effects"
+  link="/projects/all-pedals"
+  title="Guitar & Bass Effect Projects"
   text=text
 %}
 
 {% capture text %}
 
-**SynthWorks** is the sub-project responsible for our high-quality synth modules; all designs are made by, assembled, and painted by us.
+[**SynthWorks**](/projects/synthworks) is our sub-project dedicated to the design and construction of high-quality synthesizer modules. Each module is a hands-on exploration in sound synthesis, from concept to assembly and painting.
 
 {%
   include button.html
   link="/projects/synthworks"
-  text="See our Synth Mods"
+  text="View Our Synth Module Designs (SynthWorks)"
   icon="fa-solid fa-sliders"
   flip=true
   style="bare"
@@ -59,7 +59,7 @@ This website aims to provide insight and document the journey of creating our so
   include feature.html
   image="images/projects/synthworks.png"
   link="/projects/synthworks"
-  title="Synth Modules"
+  title="Synth Module Projects (SynthWorks)"
   flip=true
   style="bare"
   text=text
@@ -67,12 +67,12 @@ This website aims to provide insight and document the journey of creating our so
 
 {% capture text %}
 
-**Made by Canadians** - Two Canadians handmaking pedals/mods in our "_sound lab_". Come meet all the people that come together to create each sub-project and the story behind the **D&A Effects** project.
+**Handmade by Enthusiasts:** **D&A Effects** is a passion project brought to life in our _Sound Lab_ by Daniel and Tyler in Canada. Learn more about the individuals behind these sonic explorations and the story of **D&A Effects**.
 
 {%
   include button.html
-  link="team"
-  text="Meet the Team!"
+  link="/team"
+  text="Meet the Creators"
   icon="fa-solid fa-people-group"
   flip=true
   style="bare"
@@ -83,7 +83,7 @@ This website aims to provide insight and document the journey of creating our so
 {%
   include feature.html
   image="images/profiles/team-32.png"
-  link="team"
+  link="/team"
   title="Our Team"
   text=text
 %}

@@ -8,11 +8,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-music" %}D.R.A.T.
 
 {% capture text %}
-<!--**D**esigned for **R**aw **A**nalog **T**one-->
 **D**rat: **R**edesigning **A**nalog **T**ones
- — this is the project that started it all. Born from a simple but relentless idea: to make **high-quality** analog pedals without compromising on tone, craft, or soul.
+ - this is the parallel project that was born from our journey into sound. Driven by a simple yet unwavering desire: to explore and craft **high-quality** analog pedals with uncompromising tone, meticulous construction, and a whole lot of soul.
 
-We grew tired of the flat, uninspired sounds of mass-produced gear — pedals that felt more like plastic than passion. So we set out to do it differently.
+Like many players, we also noticed the increasingly high cost of boutique and even some mass-produced guitar effects. Frustrated by both the often sterile sounds of some readily available options and the prohibitive prices of others, we decided to take matters into our own hands. In our spare time, we set out to build something different, something truly our own that wouldn't break the bank for the quality offered.
 {% endcapture %}
 
 {% include feature.html
@@ -20,18 +19,20 @@ We grew tired of the flat, uninspired sounds of mass-produced gear — pedals th
   text=text
 %}
 
-The  **D.R.A.T.** sub-project focuses on capturing the tones players chase: gritty overdrives, lush modulations, fat fuzzes, and everything in between. Every pedal begins with a sound worth obsessing over — and ends with a piece of gear built by hand, tested by ear, and made to inspire.
+The **D.R.A.T** sub-project is our exploration into the heart of classic guitar and bass tones: the rich sustain of gritty overdrives, the swirling textures of lush modulations, the thick and woolly character of fat fuzzes, and all the inspiring sonic territories in between. Each pedal concept begins with a sound that captivates us - and evolves into a piece of gear built by our hands, tested by our ears, and designed to ignite creativity.
 
-Each unit is meticulously assembled, rigorously tested, and held to a personal standard of excellence — not to just function properly, but to feel right. This isn't just about circuits. It's about character. It's about tone that’s raw, real, and ours.
+Every unit we create is carefully assembled, rigorously tested, and held to our personal standard of sonic excellence - not just to function, but to *feel* right. For us, it's more than just circuits; it's about imbuing each creation with character, with a tone that’s raw, real, and undeniably ours.
 
 {% include section.html %}
 
-## Coming Soon
+## Our Analog Explorations (Coming Soon)
+
+We're currently diving into the design and creation of several analog effect concepts, including:
 
 {%
   include list.html
   data="pedals"
   component="pedal"
-	style="small"
+  style="small"
   filter="brand == 'drat'"
 %}
