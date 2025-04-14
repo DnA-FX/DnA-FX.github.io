@@ -1,0 +1,13 @@
+---
+title: LabRat
+subtitle: Fuzz
+brand: drat
+image: images/projects/drat/photo.png
+description: Raw, vintage-style fuzz with feedback loop and self-oscillation.
+tags:
+  - tag1
+  - tag2
+  - tag3
+---
+
+This pedal is a work in progress right now. As progress is make on the development of the pedal, this page will be updated.
