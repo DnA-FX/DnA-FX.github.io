@@ -5,19 +5,20 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
+# {% include icon.html icon="fa-regular fa-envelope" %}Get in Touch!
 
-Have a question? Just want to talk tone?
+Have a question about our projects? Or just want to chat about all things tone?
 
-We’d love to hear from you.
+We'd love to hear from you and are happy to discuss our sonic explorations.
 
-Daniel Aldrich and Tyler Aben, the guys behind the **D&A Effects** project, as well as all the sub-projects are here to answer any questions you might have.
+Daniel Aldrich and Tyler Aben, the creators behind the **D&A Effects** project and all its sub-projects, are here to personally answer any questions you might have.
 
-## 📩 General Inquiries
-Have feedback, ideas, or just wanna nerd out about gear?
-Hit us up at [dna.audio.fx@gmail.com](dna.audio.fx@gmail.com)
+## 📧 General Inquiries
+Have feedback on our designs, exciting ideas for future projects, or just want to geek out about gear?
 
-We’re a small team building equipment because we love it — and that means your message actually matters to us. Just real humans making weird, wonderful sounds.
+Drop us a line at [dna.audio.fx@gmail.com](mailto:dna.audio.fx@gmail.com)
+
+We're a small team fueled by our passion for sound, and your messages are genuinely important to us. You'll be hearing directly from real humans making weird and wonderful sounds in our lab.
 
 {%
   include button.html
@@ -26,3 +27,6 @@ We’re a small team building equipment because we love it — and that means yo
   link="dna.audio.fx@gmail.com"
 %}
 
+{% include section.html %}
+
+Proudly based in Alberta, Canada.

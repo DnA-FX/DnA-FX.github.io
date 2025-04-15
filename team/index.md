@@ -5,35 +5,35 @@ nav:
   tooltip: Project Team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Meet the Team
+# {% include icon.html icon="fa-solid fa-users" %}Meet the Creative Minds
 
 ## Who We Are
 {% capture text %}
-**D&A Effects** (a.k.a. **DnA-FX**) is collection of projects to develop our own boutique pedals and experiment in our sound design _lab_ brought together by Daniel Aldrich (a.k.a. **Drat**) in full collaboration with backyard synth designer & audio connoisseur **Tyler Aben**. We're creators, hackers, and musicians.
+**D&A Effects** (a.k.a. **DnA-FX**) is the ongoing creative playground of Daniel Aldrich (better known as **Drat**) and the brilliant mind of backyard synth designer & audio enthusiast **Tyler Aben**. What started as a shared passion for crafting unique sounds in our own sound design _lab_ has evolved into this collection of exciting projects. We're tinkerers, musicians at heart, and dedicated explorers in the world of audio.
 {% endcapture %}
 
 {% include feature.html
   image="images/profiles/team-32.png"
   text=text
 %}
-<!-- designers -->
 {% include section.html %}
+## Our Design Team
 {% include list.html data="members" component="portrait" filter="role == 'designer'" %}
 
-## The Mission
+## Our Philosophy
 
-To merge engineering precision with experimental sound — creating pedals/mods that are not just tools, but instruments in their own right. Whether we're chasing a vintage warmth or glitchy chaos, we build the tools that let us **customize our sonic DnA.**
+More than just building tools, our mission is to merge the precision of engineering with the boundless possibilities of sonic experimentation. We strive to create pedals and mods that aren't just functional pieces of gear, but inspiring instruments in their own right. Whether we're chasing classic analog warmth or embracing digital chaos, we're driven to build the tools that empower us – and hopefully others - to **sculpt our own sonic DNA.**
 
-## Our Current Projects
+## Exploring Our Soundscapes
 
-- [**D.R.A.T.**](/projects/drat): **Analog** guitar and bass effects.
-- [**GlitchCraft**](/projects/glitchcraft): **Digital** and DSP effects.
-- [**SynthWorks**](/projects/synthworks): **Synth**-focused tools and modules.
-- [**Gene-Splice**](/projects/gene-splice): All **hybrid** & **collab**oration projects.
+- [**D.R.A.T.**](/projects/drat): Focused on **Analog** guitar and bass effects.
+- [**GlitchCraft**](/projects/glitchcraft): Diving into **Digital** and DSP effects.
+- [**SynthWorks**](/projects/synthworks): Creating **Synth**-centric tools and modules.
+- [**Gene-Splice**](/projects/gene-splice): Our **Hybrid** and **Collaboration** experiments.
 
-<!-- MUSICIANS -->
 {% include section.html background="images/background.jpg" dark=true %}
-## Musicians and Artists
-And where would we be without the love and support from those who choose to use the equipment that we have designed? While we wish that we could list everyone who has helped us along our path, that would make this list truly un-ending. So here are some of the more notable of those who have offered us their continued support, input, and dedication.
+## With Gratitude to Our Supporters
+The journey of D&A Effects wouldn't be the same without the incredible support and inspiration from the musicians who have embraced our creations. While a complete list would be endless, we want to express our sincere appreciation to some of the notable artists who have offered their continued encouragement, valuable input, and unwavering dedication.
 {% include section.html %}
+## Featured Musicians
 {% include list.html data="members" component="portrait" filter="role == 'musician'" %}

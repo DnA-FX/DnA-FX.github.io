@@ -7,25 +7,29 @@ links:
   email: dna.audio.fx+aben@gmail.com
 ---
 
-# Tyler Aben  
-**Modular Synth Designer • Sonic Instigator • Designer of D&A Effects Projects**  
+# Tyler Aben
 
-I’m **Tyler Aben**, and I guess you could say this whole thing started because I wouldn’t shut up about modular synths.
+**Modular Synth Designer • Sonic Instigator • D&A Effects Collaborator**
 
-It began with an idea: **build my own synth modules**. That idea turned into late-night circuit talks with [Drat](/members/drat), who got hooked after realizing just how much guitar effects and modular synthesis had in common. We both saw the potential for something different — a space where analog and digital could twist together in unexpected ways.
+I'm **Tyler Aben**, and you could say my obsession with modular synths is what sparked this whole **D&A Effects** adventure.
 
-## From Spark to Circuit
+It all started with a simple, persistent idea: _"I wanted to fix and build my own synth modules."_ 
+That idea led to late-night circuit discussions with my friend [Drat (Daniel Aldrich)](/members/drat), who, much to my surprise, became fascinated by the unexpected connections between guitar effects and modular synthesis. We quickly realized the potential to create something truly unique - a space where analog and digital sounds could intertwine and evolve in exciting ways.
 
-What started as a few breadboarded prototypes quickly became something bigger. Together, we began designing **hybrid circuits**, **glitchy tone machines**, and **experimental audio tools**. The gear wasn’t just functional — it was fun, unpredictable, and deeply personal.
+## From Initial Spark to Tangible Circuit
 
-## What I Do
+What began as a few experiments on breadboards rapidly grew into a collaborative journey. Together, we embarked on designing **innovative hybrid circuits**, **glitch-inducing tone machines**, and **experimental audio tools**. The gear we created wasn't just functional; it was inspiring, unpredictable, and reflected our shared passion for sound exploration.
 
-- 🎛 **Modular Synth Modules** – Utility meets chaos in every patch.
-- ⚙️ **Analog Experiments** – Oscillation, time-bending, modulation, and control.
-- 🎚 **Hybrid Projects** – Where synth and stompbox logic merge.
-- 🔊 **Sound Design + Music** – Always exploring new textures.
+## My Sonic Contributions
+
+Here's a glimpse into my primary areas of focus within D&A Effects:
+
+- **Modular Synth Modules:** Crafting versatile modules where utility meets sonic chaos.
+- **Analog Circuit Design:** Exploring the art of oscillation, time-bending, modulation, and creative control.
+- **Hybrid Project Development:** Merging the logic of synths and stompboxes to create new sonic possibilities.
+- **Sound Design & Music Creation:** Continuously searching for unique sonic textures and pushing creative boundaries.
 
 ---
 
-Want to talk synths or collaborate on something weird?  
-Hit me up at **[dna.audio.fx+aben@gmail.com]**, or find me in the patch cables.
+I'm always excited to connect with fellow synth enthusiasts and explore potential collaborations. 
+Feel free to reach out to me at **[dna.audio.fx+aben@gmail.com]**. Let's make some noise!

@@ -8,8 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-music" %}D.R.A.T.
 
 {% capture text %}
-**D**rat: **R**edesigning **A**nalog **T**ones
- - this is the parallel project that was born from our journey into sound. Driven by a simple yet unwavering desire: to explore and craft **high-quality** analog pedals with uncompromising tone, meticulous construction, and a whole lot of soul.
+**D**rat: **R**edesigning **A**nalog **T**ones - this is the parallel project that was born from our journey into sound. Driven by a simple yet unwavering desire: to explore and craft **high-quality** analog pedals with uncompromising tone, meticulous construction, and a whole lot of soul.
 
 Like many players, we also noticed the increasingly high cost of boutique and even some mass-produced guitar effects. Frustrated by both the often sterile sounds of some readily available options and the prohibitive prices of others, we decided to take matters into our own hands. In our spare time, we set out to build something different, something truly our own that wouldn't break the bank for the quality offered.
 {% endcapture %}

@@ -16,4 +16,22 @@ bandcamps:
   - 848656855
 ---
 
-Calvin Jee has been playing piano since he was 5, guitar since he was 10, and drums since he was 20. Music has always been core to his being. he loves a wide range of genres — jazz, electronic, orchestral, traditional folk, hip-hop, grunge, neo-soul, singer/songwriter, _etc_. — but progressive rock/metal is his main domain. he has done many performances in his lifetime, but he prefers the act of composing. He especially loves composing soundtracks for games (tabletop or video). So, if you are making a game and in need of a composer, feel free to reach out (links in the side panel)!
+# Calvin Jee
+
+A musician at his core, Calvin Jee's journey with music began early. He started playing piano at the age of five, picked up the guitar at ten, and added drums to his repertoire at twenty. For Calvin, music has always been more than just a hobby – it's an integral part of who he is.
+
+His musical tastes are wonderfully diverse, encompassing genres such as:
+
+- Jazz
+- Electronic
+- Orchestral
+- Traditional Folk
+- Hip-Hop
+- Grunge
+- Neo-Soul
+- Singer/Songwriter
+- Progressive Rock/Metal (his primary focus)
+
+While he has a history of live performances, Calvin finds his true passion in the art of composing. He has a particular affinity for creating soundtracks for games, whether tabletop or video.
+
+**Are you developing a game and in need of a composer?** Calvin is eager to collaborate! Feel free to reach out through the links provided.

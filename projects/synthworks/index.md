@@ -10,7 +10,7 @@ nav:
 {% capture text %}
 Experimental Sound Engines. Built to Modulate. Designed to Evolve.
 
-**SynthWorks** is the sub-project where sound is broken down, restructured, and rebuilt from the waveform up. Born from a love of modular and hands-on control, **SynthWorks** delivers tools for sonic architects — synths, modules, and tones that invite us to design, destroy, and reshape our signal path in real time.
+**SynthWorks** is the sub-project that ignited our entire creative journey. Born from a fascination with modular synthesis and the power of hands-on control, **SynthWorks** is where we explore the fundamental building blocks of sound. It's our way of providing tools for fellow sonic architects - innovative synths, versatile modules, and inspiring tones that invite us to design, disrupt, and completely reshape our signal paths in real time.
 {% endcapture %}
 
 {% include feature.html
@@ -18,21 +18,23 @@ Experimental Sound Engines. Built to Modulate. Designed to Evolve.
   text=text
 %}
 
-This isn’t just synthesis.
-This is machined modulation, voltage-driven disruption, and signal design with intention.
+This is more than just synthesis; it's about the art of sonic construction.
+It's about machined modulation, voltage-driven experimentation, and intentional signal design.
 
-From CV-reactive effects to standalone tone generators, every **SynthWorks** unit is hand-crafted for maximum flexibility, playability, and performance. Whether we're deep into Eurorack or just starting to patch together our first suitcase system, **SynthWorks** gives us the custom-components we need to build a sound system that’s uniquely our — no rules, no limitations.
+From CV-reactive effects inspired by our pedal explorations to standalone sound generators pushing sonic boundaries, every **SynthWorks** unit is hand-crafted with a focus on maximum flexibility, intuitive playability, and inspiring performance. Whether we're deeply immersed in the Eurorack ecosystem or just beginning to patch our first modular system, **SynthWorks** aims to provide the unique custom-components needed to build a sound system that’s truly your own - free from rigid structures and full of sonic possibilities.
 
 **Modular**. _Expandable_. **_Unpredictable_**.
-This is **SynthWorks**.
+This is **SynthWorks** – the foundation of our sound explorations.
 
 {% include section.html %}
 
-## Coming Soon
+## Our Synth Module Designs (Coming Soon)
+
+We're currently developing a range of synthesizer modules, including:
 
 {%
   include list.html
   data="pedals"
-  component="pedal-excerpt" 
-  filter="brand == 'synthworks'"  
+  component="pedal-excerpt"
+  filter="brand == 'synthworks'"
 %}
