@@ -11,7 +11,7 @@ links:
 
 **Pedal Designer • Chaos Tinkerer • D&A Effects Collaborator**
 
-I'm Daniel Aldrich, better known as **Drat**, and the story of D&A Effects truly begins with [Tyler](/profiles/tyler-aben)'s relentless enthusiasm for modular synths.
+I'm Daniel Aldrich, better known as **Drat**, and the story of D&A Effects truly begins with [Tyler](/members/tyler-aben)'s relentless enthusiasm for modular synths.
 
 Initially, I was an observer, intrigued but somewhat on the periphery. Then, a realization struck me - the undeniable synergy between synth modules and guitar pedals. Suddenly, I was captivated by the potential for sonic fusion, and from that point forward, it became our shared creative obsession.
 

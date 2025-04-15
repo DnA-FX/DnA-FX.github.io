@@ -36,7 +36,11 @@ _We don’t post on a schedule._ We post when the voltage feels right.
 
 Catch up on our latest sonic dissections and experimental outcomes:
 
-{% include list.html data="posts" component="post-excerpt" limit="3" %}
+{% include list.html 
+  data="posts" 
+  component="post-excerpt" 
+  limit="3" 
+%}
 
 {% include section.html %}
 
