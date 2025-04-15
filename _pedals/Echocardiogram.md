@@ -17,19 +17,19 @@ This project aims to recreate the warm and characterful sound of vintage analog 
 
 ### Development Focus:
 
-* Utilizing analog delay chips for authentic tone.
-* Careful filtering of repeats for a natural decay.
-* A usable delay time range for various musical styles.
+- Utilizing analog delay chips for authentic tone.
+- Careful filtering of repeats for a natural decay.
+- A usable delay time range for various musical styles.
 
 ### Potential Features:
 
-* Feedback control for multiple repeats and self-oscillation.
-* "Tone" control to shape the character of the echoes.
+- Feedback control for multiple repeats and self-oscillation.
+- "Tone" control to shape the character of the echoes.
 
 ### Requirements:
-* Power: 9V DC Center Negative
-* Current Draw: Estimated <70mA
-* Input Impedance: 500kΩ
-* Output Impedance: 1kΩ
+- Power: 9V DC Center Negative
+- Current Draw: Estimated <70mA
+- Input Impedance: 500kΩ
+- Output Impedance: 1kΩ
 
 ### Updates:
