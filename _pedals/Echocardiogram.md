@@ -2,7 +2,7 @@
 title: Echocardiogram
 subtitle: Delay
 brand: drat
-image: images/projects/drat/echo-chamber-photo.png # Replace with actual image
+image: images/projects/drat/echocardiogram-photo.png # Replace with actual image
 description: A classic analog-inspired delay, providing warm and organic repeats with a vintage character.
 requirements:
   power: 9V DC Center Negative
