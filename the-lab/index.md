@@ -10,7 +10,7 @@ nav:
 {% capture text %}
 Welcome to **The Lab** - where schematics come to life and the solder never cools.
 
-Step inside our behind-the-scenes journal for experiments, builds, and the occasional glorious failure. From circuit sketches and fried prototypes to in-depth walk-throughs of our analog pedals ([**D.R.A.T**](/projects/drat)), digital explorations ([**GlitchCraft**](/projects/glitchcraft)), synth experiments ([**SynthWorks**](/projects/synthworks)), and hybrid creations ([**Gene-Splice**](/projects/gene-splice)) - this is where ideas mutate into machines.
+Step inside our behind-the-scenes journal for experiments, builds, and the occasional glorious failure. From circuit sketches and fried prototypes (many of which you can see evolving on our [**Prototypes**](/projects/prototypes) page) to in-depth walk-throughs of our analog pedals ([**D.R.A.T**](/projects/drat)), digital explorations ([**GlitchCraft**](/projects/glitchcraft)), synth experiments ([**SynthWorks**](/projects/synthworks)), and hybrid creations ([**Gene-Splice**](/projects/gene-splice)) - this is where ideas mutate into machines.
 {% endcapture %}
 
 {% include feature.html

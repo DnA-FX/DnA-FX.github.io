@@ -1,8 +1,5 @@
 ---
 title: Prototypes
-nav:
-  order: 5
-  tooltip: Prototypes
 ---
 
 # {% include icon.html icon="fa-solid fa-vial" %}Prototypes: The Sonic Sandbox
